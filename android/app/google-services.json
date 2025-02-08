@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716227987263",
+    "project_id": "monitor-app-firebase-ccbdd",
+    "storage_bucket": "monitor-app-firebase-ccbdd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716227987263:android:9e43972a00a7dc7ca7758a",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUkwgGd559Z8vnWyxcvkBBJ_s-v6rUj9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

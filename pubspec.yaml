@@ -17,6 +17,9 @@ dependencies:
   google_fonts: ^6.2.1
   flutter_screenutil: ^5.9.3
   font_awesome_flutter: ^10.8.0
+  cloud_firestore: ^4.8.0
+  firebase_core: 2.15.0  # Replace with the latest version
+  firebase_auth: 4.7.0   # Replace with the latest version
 
 dev_dependencies:
   flutter_test:
